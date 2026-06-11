@@ -2,8 +2,8 @@
 
 ## Hasil deteksi gambar
 
-![gambar](hasil_deteksi_gambar.png)
+![gambar](Deteksi-Pejalan-Kaki/hasil_deteksi_gambar.png)
 
 ## Hasil deteksi video
 
-![gambar](hasil_deteksi_video.png)
+![gambar](Deteksi-Pejalan-Kaki/hasil_deteksi_video.png)
